@@ -10,7 +10,14 @@ public class _06_Array_contains {
         Eğer aitse "true" çevirin.
         Loops (döngüler) kullanın.
          */
-
+        String str[]={ "Apple ", "Orange ", "Banana" , "Pineapple"};
+        boolean varmı=false;
+        for (int  i= 0; i < str.length ; i++) {
+            if (str[i].contains("apple")){
+                varmı=true;
+            }
+        }
+        System.out.println(varmı);
 
     }
 }

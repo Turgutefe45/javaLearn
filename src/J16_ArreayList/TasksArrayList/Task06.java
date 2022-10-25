@@ -1,4 +1,4 @@
-package j16_ArrayList.Tasks;
+package J16_ArreayList.TasksArrayList;
 
 import java.util.ArrayList;
 import java.util.Scanner;

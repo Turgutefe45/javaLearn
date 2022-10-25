@@ -18,10 +18,24 @@ public class _12_Array_no14 {
 
         bir array oluşturun ve elemanları : 1,2,3,4
         Sonuç false olmalı
-        NOT: Array elemanlarını 1,2,3 olarak değiştirirseniz sonuç doğru olmalı
+        NOT: Array elemanlarını 1,2,3 olarak değiştirirseniz sonuç doğru olmal
          */
+        Scanner scan = new Scanner(System.in);
+        System.out.println("kaç boyutlu array istiyorsunuz : ");
+        int arr[]=new int[scan.nextInt()];
+        boolean varmı=true;
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(i+ " . index sayıyı giriniz");
+            arr[i]=scan.nextInt();
+        }
+        for (int i = 0; i < arr.length ; i++) {
+            for (int j = 0; j < arr.length; j++) {
+                if (arr[i] == 1 && arr[j]==4 || arr[i]==4 && arr[j]==1){
+                    varmı=false;
+                }
+            }
+            }
+        System.out.println("varmı = " + varmı);
 
-
-
-    }
+        }
 }

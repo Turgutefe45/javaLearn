@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 import java.util.Scanner;
 
@@ -24,9 +24,9 @@ public class Task04 {
             }
 
         }else System.out.println("hatalı giriş yaptınız");
-        for (int i=(sayı1<sayı2?sayı1:sayı2);i<=(sayı1>sayı2?sayı1:sayı2);i++ ){
-            System.out.print(i%2==0?i:" ");
-        }
+       // for (int i=(sayı1<sayı2?sayı1:sayı2);i<=(sayı1>sayı2?sayı1:sayı2);i++ ){
+        //System.out.print(i%2==0?i:" ");}
+
 
     }//main sonu
 

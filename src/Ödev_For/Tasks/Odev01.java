@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 public class Odev01 {
 
@@ -8,6 +8,11 @@ public class Odev01 {
         //Not: 0 ve 100 dahildir.
 
         //Kodu aşağıya yazınız.
+        for (int i =0; i <=100 ; i+=2) {
+            System.out.println(i);
+
+
+        }
 
 
     }

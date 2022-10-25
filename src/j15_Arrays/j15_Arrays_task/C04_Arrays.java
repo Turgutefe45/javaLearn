@@ -1,4 +1,4 @@
-package j15_Arrays;
+package j15_Arrays.j15_Arrays_task;
 
 import java.util.Arrays;
 

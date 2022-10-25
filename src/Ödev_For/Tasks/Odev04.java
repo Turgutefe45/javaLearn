@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 public class Odev04 {
 
@@ -11,6 +11,11 @@ public class Odev04 {
          */
 
         //Kodu aşağıya yazınız.
+        System.out.println("hem 5'e, hem de 4'e bölünebilen  sayıları");
+        for (int i = 1; i < 100; i++) {
+            if(i % 5 == 0 && i % 4 == 0) System.out.print(i + " ");
+
+        }
 
 
 

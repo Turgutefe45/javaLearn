@@ -1,4 +1,4 @@
-package HaftanınTaskiii;
+package day07.HaftanınTaskiii;
 
 public class T01_TopZıplamaMesafeSaysı {
 

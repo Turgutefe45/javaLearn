@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 import java.util.Scanner;
 
@@ -44,7 +44,7 @@ public class Task07_Nested {
                 }else System.out.print("0  ");
 
             }
-            System.out.println();
+           // System.out.println();
         }
 
 

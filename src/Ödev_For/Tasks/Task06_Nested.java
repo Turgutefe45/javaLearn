@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 public class Task06_Nested {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class Task06_Nested {
             for (int crpn2 = 1; crpn2<=10;crpn2++){
 
 
-                System.out.println(crpn1+" x "+crpn2+" = "+(crpn1*crpn2));
+                System.out.println(crpn1+" x "+crpn2+" = "+crpn1*crpn2);
             }
             System.out.println();
         }

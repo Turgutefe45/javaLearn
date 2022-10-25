@@ -1,4 +1,4 @@
-package j12_Lopps.L02_WhileLoop.Tasks;
+package J12_Lopps.L02_WhileLoop.WhileLoop;
 
 public class Task02 {
     public static void main(String[] args) {

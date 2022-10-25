@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 public class Odev08 {
 
@@ -7,6 +7,10 @@ public class Odev08 {
         /*100'den 0'a kadar bütün tek sayıları yazdırınız.
         99-98-97-96....
         100 ve 0 dahil değildir.*/
+        for (int i = 99; i >0; i-=2) {
+            System.out.println(i);
+
+        }
 
 
 

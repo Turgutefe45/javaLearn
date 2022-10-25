@@ -8,6 +8,13 @@ public class _03_Create_array3_int {
           Array in elemanlarının toplamını yazdır.
           Cevap 220 olmalı.
      */
+        int arr[] ={25,30,30,35,100};
+        int top = 0;
+        for (int i = 0; i < arr.length; i++) {
+            top+=arr[i];}
+            System.out.println("top = " + top);
+
+
 
 
 

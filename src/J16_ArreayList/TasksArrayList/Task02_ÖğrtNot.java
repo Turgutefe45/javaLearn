@@ -1,4 +1,4 @@
-package j16_ArrayList.Tasks;
+package J16_ArreayList.TasksArrayList;
 
 public class Task02_ÖğrtNot {
     public static void main(String[] args) {

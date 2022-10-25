@@ -1,6 +1,6 @@
 package J18_constructor;
 
-public class C03_StudentRunner {
+public class C03_Student {
     // fields
     String ad;
     String soyad;

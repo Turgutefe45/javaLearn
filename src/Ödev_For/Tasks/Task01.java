@@ -1,4 +1,4 @@
-package j12_Lopps.L01_ForLoop.Tasks;
+package Ödev_For.Tasks;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class Task01 {
 
 */
         Scanner sc= new Scanner(System.in);
-        System.out.println("bir pozitif tam sayı giriniz : ");
+        System.out.println("yüzden küçük bir pozitif tam sayı giriniz : ");
         int sayı=sc.nextInt();//63-> 1,2,3,  .. 63->
 
 
